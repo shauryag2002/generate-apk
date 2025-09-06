@@ -321,10 +321,6 @@ The tool provides detailed feedback at each step:
 - **v1.1.0**: Added build mode, cross-platform unzip, automatic keystore creation
 - **v1.0.0**: Initial release with interactive mode
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Google BundleTool** - The official tool for Android App Bundle operations
@@ -334,7 +330,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - 🐛 **Issues**: [GitHub Issues](https://github.com/shauryag2002/generate-apk/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/shauryag2002/generate-apk/discussions)
 - 📧 **Email**: guptashaurya2002@gmail.com
 
 ---
