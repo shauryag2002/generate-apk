@@ -1,0 +1,30 @@
+{
+  "name": "generate-apk",
+  "version": "1.1.0",
+  "description": "CLI tool to convert .aab to .apk via BundleTool, with prompts and signing.",
+  "main": "bin/generate-apk.js",
+  "bin": {
+    "generate-apk": "bin/generate-apk.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "generate-apk",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "android",
+    "bundletool",
+    "aab",
+    "apk",
+    "cli",
+    "cross-platform",
+    "build"
+  ],
+  "author": "Shaurya Gupta",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12"
+  }
+}
